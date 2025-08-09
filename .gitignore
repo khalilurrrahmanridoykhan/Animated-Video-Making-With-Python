@@ -6,3 +6,6 @@ __pycache__/
 
 # Ignore storyboard PDF
 school_safety_storyboard.pdf
+
+# Ignore storyboard breakdown text
+storyboard_breakdown.txt
