@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/khalilur/Documents/animated_video/media/videos/main/480p15/partial_movie_files/CartoonCharacter/1185818338_521090973_223132457.mp4'
+file 'file:/Users/khalilur/Documents/animated_video/media/videos/main/480p15/partial_movie_files/CartoonCharacter/624642324_2690200442_1252344906.mp4'
+file 'file:/Users/khalilur/Documents/animated_video/media/videos/main/480p15/partial_movie_files/CartoonCharacter/624642324_31035489_1252344906.mp4'
+file 'file:/Users/khalilur/Documents/animated_video/media/videos/main/480p15/partial_movie_files/CartoonCharacter/624642324_2690200442_1252344906.mp4'
+file 'file:/Users/khalilur/Documents/animated_video/media/videos/main/480p15/partial_movie_files/CartoonCharacter/624642324_1839128356_2439260098.mp4'
+file 'file:/Users/khalilur/Documents/animated_video/media/videos/main/480p15/partial_movie_files/CartoonCharacter/624642324_3067564452_2375220172.mp4'

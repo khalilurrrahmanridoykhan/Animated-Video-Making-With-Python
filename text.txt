@@ -1,0 +1,3 @@
+source .venv/bin/activate
+python -m manim -pql main.py CartoonCharacter
+sudo manim -pql main.py Scene1_Approach
